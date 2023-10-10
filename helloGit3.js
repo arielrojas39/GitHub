@@ -1,1 +1,1 @@
-console.log("Este es un nuevo archivo con modificaciones");
+console.log("Este es un nuevo archivo en el que se metio el equipo de 'Login'");
